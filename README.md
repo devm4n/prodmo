@@ -3,9 +3,9 @@
 A production-ready REST API with JWT authentication and role-based access control.
 
 ## 🌐 Live
-- **API:** https://your-render-url.onrender.com
-- **Frontend:** https://prodmo.vercel.app
-- **Docs:** https://your-render-url.onrender.com/api/docs/
+- **API:** ""
+- **Frontend:** ""
+- **Docs:** ""
 
 ---
 
