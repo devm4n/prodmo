@@ -4,7 +4,7 @@ A production-ready REST API with JWT authentication and role-based access contro
 
 ## 🌐 Live
 - **API:** ""
-- **Frontend:** "prodmo.vercel.app"
+- **Frontend:** https://prodmo.vercel.app
 - **Docs:** ""
 
 ---
